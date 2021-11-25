@@ -57,7 +57,7 @@ var FormElementsInformation =[
 	{ view:"text", label:'Restanspruch aus Vorjahr', name:"vorjahr",format:"1,111.00 h" ,disabled:true},
 	{ view:"text", label:'Resturlaub aktuell', name:"rest",format:"1,111.00 h" ,disabled:true},
 	{ view:"text", label:'Zuk&uuml;nftig geplanter Urlaub', name:"geplant",format:"1,111.00 h",disabled:true },
-	{ view:"text", label:'verf&uuml;gbar', name:"verfuegbar",format:"1,111.00 h",disabled:true },
+	{ view:"text", label:'Verf&uuml;gbar', name:"verfuegbar",format:"1,111.00 h",disabled:true },
 	{ view:"text", label:'Saldo Gleitzeitkonto', name:"saldo_ueberstunden",format:"1,111.00 h" ,disabled:true},
 
 ];
